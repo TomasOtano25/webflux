@@ -1,5 +1,5 @@
 package es.upm.miw.iwvg_devops.git;
 
 public class C6 {
-    // issue#2
+    // conflict
 }
